@@ -1,0 +1,10 @@
+C:\Source\Playground\TINF13B3_DB_5\AccessDatabaseTest\bin\Debug\AccessDatabaseTest.dll
+C:\Source\Playground\TINF13B3_DB_5\AccessDatabaseTest\bin\Debug\AccessDatabaseTest.pdb
+C:\Source\Playground\TINF13B3_DB_5\AccessDatabaseTest\obj\Debug\AccessDatabaseTest.csprojResolveAssemblyReference.cache
+C:\Source\Playground\TINF13B3_DB_5\AccessDatabaseTest\obj\Debug\AccessDatabaseTest.dll
+C:\Source\Playground\TINF13B3_DB_5\AccessDatabaseTest\obj\Debug\AccessDatabaseTest.pdb
+C:\Source\Playground\TINF13B3_DB_5\AccessDatabaseTest\bin\Debug\AccessDatabase.dll
+C:\Source\Playground\TINF13B3_DB_5\AccessDatabaseTest\bin\Debug\AccessDatabase.pdb
+C:\Source\Playground\TINF13B3_DB_5\AccessDatabaseTest\bin\Debug\Dapper.dll
+C:\Source\Playground\TINF13B3_DB_5\AccessDatabaseTest\bin\Debug\Dapper.pdb
+C:\Source\Playground\TINF13B3_DB_5\AccessDatabaseTest\bin\Debug\Dapper.xml

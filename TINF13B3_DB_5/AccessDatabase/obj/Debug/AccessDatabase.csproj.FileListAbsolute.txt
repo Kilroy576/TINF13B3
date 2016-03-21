@@ -1,0 +1,8 @@
+C:\Source\Playground\TINF13B3_DB_5\AccessDatabase\bin\Debug\AccessDatabase.dll
+C:\Source\Playground\TINF13B3_DB_5\AccessDatabase\bin\Debug\AccessDatabase.pdb
+C:\Source\Playground\TINF13B3_DB_5\AccessDatabase\obj\Debug\AccessDatabase.csprojResolveAssemblyReference.cache
+C:\Source\Playground\TINF13B3_DB_5\AccessDatabase\obj\Debug\AccessDatabase.dll
+C:\Source\Playground\TINF13B3_DB_5\AccessDatabase\obj\Debug\AccessDatabase.pdb
+C:\Source\Playground\TINF13B3_DB_5\AccessDatabase\bin\Debug\Dapper.dll
+C:\Source\Playground\TINF13B3_DB_5\AccessDatabase\bin\Debug\Dapper.pdb
+C:\Source\Playground\TINF13B3_DB_5\AccessDatabase\bin\Debug\Dapper.xml
